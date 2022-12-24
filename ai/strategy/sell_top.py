@@ -1,0 +1,1 @@
+# Base testing strategy to buy when up and sell as the up goes down..
